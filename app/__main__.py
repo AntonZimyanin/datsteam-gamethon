@@ -1,4 +1,4 @@
-from datsteam.HttpClient import HttpClient
+from app.datsteam.HttpClient import HttpClient
 
 
 def main(): 
