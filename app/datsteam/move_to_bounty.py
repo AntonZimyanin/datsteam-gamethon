@@ -5,7 +5,6 @@ client = HttpClient()
 
 
 while True:
-    closest_bounties = {}
     for transport in client.transports:
         best_bounty = None
         min_value = float('inf')
@@ -17,11 +16,8 @@ while True:
                 best_bounty = bounty
 
         transport['acceleration'] = calculate_acceleration(transport, best_bounty, client.max_acceleration)
-
-        closest_bounties[transport['id']] = best_bounty
-        print(f"{transport['id']} x: {transport['x']}, y: {transport['y']}, bounty x: {best_bounty['x']}, y: {best_bounty['y']}")
-        print(f"Acceleration {transport['acceleration']} {transport['selfAcceleration']} Anomali {transport['anomalyAcceleration']}")
-
+    
+    
     updated_data = {
         "transports": [
             {
@@ -32,4 +28,3 @@ while True:
         ]
     }
     client.post_request(updated_data)
-    print("  ")
