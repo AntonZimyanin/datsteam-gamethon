@@ -1,4 +1,4 @@
-from app.datsteam.math import calculate_distance
+from math_func import calculate_distance
 
 
 def is_enemy(transport, enemy):
