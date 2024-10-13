@@ -1,0 +1,1884 @@
+{
+    "mapSize": {
+        "x": 15000,
+        "y": 15000
+    },
+    "name": "Три товарища",
+    "points": 169,
+    "anomalies": [
+        {
+            "x": 1698,
+            "y": -301,
+            "id": "c7dba27b-842b-42ef-bea2-00e4724bb18c",
+            "radius": 57.88,
+            "effectiveRadius": 1870.05,
+            "strength": -1044.00,
+            "velocity": {
+                "x": -58.38,
+                "y": -31.08
+            }
+        },
+        {
+            "x": 2381,
+            "y": 8866,
+            "id": "339bfd40-70c0-4420-86aa-34f4f7a46e90",
+            "radius": 51.91,
+            "effectiveRadius": 1619.37,
+            "strength": -973.00,
+            "velocity": {
+                "x": -47.01,
+                "y": 64.73
+            }
+        },
+        {
+            "x": 10832,
+            "y": 11367,
+            "id": "fedea756-c479-4016-9495-c4b185025152",
+            "radius": 57.99,
+            "effectiveRadius": 1876.44,
+            "strength": 1047.00,
+            "velocity": {
+                "x": -67.91,
+                "y": 25.59
+            }
+        },
+        {
+            "x": 4600,
+            "y": 9430,
+            "id": "572e150a-fcbb-4ed0-9d68-112e6674bc32",
+            "radius": 62.04,
+            "effectiveRadius": 62.04,
+            "strength": 0.00,
+            "velocity": {
+                "x": -51.86,
+                "y": -60.91
+            }
+        },
+        {
+            "x": 11726,
+            "y": 6192,
+            "id": "cd27a541-926a-4a22-8d21-98a74e66e75d",
+            "radius": 33.01,
+            "effectiveRadius": 1013.64,
+            "strength": -943.00,
+            "velocity": {
+                "x": 42.94,
+                "y": -15.29
+            }
+        },
+        {
+            "x": 6328,
+            "y": 11266,
+            "id": "2eec2c6c-5cc3-4ab0-962a-b2149692b0e8",
+            "radius": 57.93,
+            "effectiveRadius": 1853.78,
+            "strength": -1024.00,
+            "velocity": {
+                "x": -22.45,
+                "y": 63.23
+            }
+        },
+        {
+            "x": 6190,
+            "y": 12571,
+            "id": "e1c78a31-246b-4428-a93c-d49c1f14c0d9",
+            "radius": 34.17,
+            "effectiveRadius": 1051.12,
+            "strength": -946.00,
+            "velocity": {
+                "x": 56.67,
+                "y": 54.19
+            }
+        },
+        {
+            "x": 12205,
+            "y": 2029,
+            "id": "8cf3891d-c848-4739-aa12-f71e67e8283d",
+            "radius": 57.13,
+            "effectiveRadius": 1765.38,
+            "strength": 955.00,
+            "velocity": {
+                "x": 5.79,
+                "y": -79.29
+            }
+        },
+        {
+            "x": 8634,
+            "y": -852,
+            "id": "4a940b5d-67d0-484b-8adc-3edca8d11ae7",
+            "radius": 40.04,
+            "effectiveRadius": 1216.59,
+            "strength": 923.00,
+            "velocity": {
+                "x": -55.81,
+                "y": 57.32
+            }
+        },
+        {
+            "x": 1974,
+            "y": 9184,
+            "id": "3b4c9516-548f-4388-849b-47d7779f8dd0",
+            "radius": 30.56,
+            "effectiveRadius": 1007.64,
+            "strength": -1087.00,
+            "velocity": {
+                "x": 66.2,
+                "y": -44.92
+            }
+        },
+        {
+            "x": 7322,
+            "y": 17373,
+            "id": "0b612acd-4525-48ee-a533-9fb4be0fe52d",
+            "radius": 36.79,
+            "effectiveRadius": 2408.22,
+            "strength": -4284.00,
+            "velocity": {
+                "x": -15.68,
+                "y": -76.5
+            }
+        },
+        {
+            "x": 8737,
+            "y": 1645,
+            "id": "f1639c69-4d6e-44c8-82ad-9a551bb5222b",
+            "radius": 40.75,
+            "effectiveRadius": 1282.72,
+            "strength": 991.00,
+            "velocity": {
+                "x": -14.37,
+                "y": 46.59
+            }
+        },
+        {
+            "x": 7695,
+            "y": -651,
+            "id": "60a7982d-7e95-435f-8f8e-b0e46efdf681",
+            "radius": 51.61,
+            "effectiveRadius": 1573.09,
+            "strength": 929.00,
+            "velocity": {
+                "x": 53.24,
+                "y": -46.47
+            }
+        },
+        {
+            "x": 5958,
+            "y": 13094,
+            "id": "f442f69d-770a-4de5-ba5b-18ce0b1ad756",
+            "radius": 44.80,
+            "effectiveRadius": 1472.29,
+            "strength": 1080.00,
+            "velocity": {
+                "x": -71.23,
+                "y": 36.41
+            }
+        },
+        {
+            "x": 10665,
+            "y": 11102,
+            "id": "ce5bb1f4-b574-40c0-8971-bf6033b30be3",
+            "radius": 106.58,
+            "effectiveRadius": 106.58,
+            "strength": 0.00,
+            "velocity": {
+                "x": -54.26,
+                "y": 47.49
+            }
+        },
+        {
+            "x": 10368,
+            "y": 14758,
+            "id": "25cfbc18-7400-48f0-99bc-14955185d982",
+            "radius": 58.79,
+            "effectiveRadius": 1770.49,
+            "strength": -907.00,
+            "velocity": {
+                "x": -46.95,
+                "y": 38.72
+            }
+        },
+        {
+            "x": 4015,
+            "y": 4805,
+            "id": "40f6b73d-b0a3-4b05-851f-baae42007b5e",
+            "radius": 45.58,
+            "effectiveRadius": 1461.52,
+            "strength": -1028.00,
+            "velocity": {
+                "x": 57.05,
+                "y": -56.08
+            }
+        },
+        {
+            "x": 7142,
+            "y": 1911,
+            "id": "4cbdf7ef-f6c1-403a-977d-bc36317602fc",
+            "radius": 33.34,
+            "effectiveRadius": 1017.16,
+            "strength": 931.00,
+            "velocity": {
+                "x": -25.64,
+                "y": 75.78
+            }
+        },
+        {
+            "x": 7344,
+            "y": 14932,
+            "id": "15673163-8ed7-40af-a9fd-eade50a3c1aa",
+            "radius": 44.64,
+            "effectiveRadius": 1369.51,
+            "strength": 941.00,
+            "velocity": {
+                "x": -37.69,
+                "y": -58.78
+            }
+        },
+        {
+            "x": 5757,
+            "y": 2650,
+            "id": "811bc31e-dfe9-47b5-a217-4ae067708013",
+            "radius": 31.01,
+            "effectiveRadius": 987.05,
+            "strength": 1013.00,
+            "velocity": {
+                "x": 64.05,
+                "y": -47.94
+            }
+        },
+        {
+            "x": 12051,
+            "y": 13759,
+            "id": "ea4e9121-2628-4775-a04b-7c4de73cac60",
+            "radius": 53.65,
+            "effectiveRadius": 1725.10,
+            "strength": -1034.00,
+            "velocity": {
+                "x": 18.82,
+                "y": -43.67
+            }
+        },
+        {
+            "x": 15426,
+            "y": 9075,
+            "id": "d07afe0f-1e9e-42f9-ae45-5a772b8c9588",
+            "radius": 50.73,
+            "effectiveRadius": 1655.63,
+            "strength": -1065.00,
+            "velocity": {
+                "x": -61.46,
+                "y": -19.46
+            }
+        },
+        {
+            "x": 7901,
+            "y": 13004,
+            "id": "6f6ebab7-f83a-47ae-acb9-5ac8a8304bbd",
+            "radius": 100.11,
+            "effectiveRadius": 100.11,
+            "strength": 0.00,
+            "velocity": {
+                "x": 24.58,
+                "y": -72.38
+            }
+        },
+        {
+            "x": 5878,
+            "y": 9634,
+            "id": "056843c4-64a9-4ec7-bd4b-eba95dd96eb7",
+            "radius": 52.96,
+            "effectiveRadius": 1615.95,
+            "strength": 931.00,
+            "velocity": {
+                "x": -42.14,
+                "y": -62.47
+            }
+        },
+        {
+            "x": 13497,
+            "y": 5604,
+            "id": "9af8a513-87cf-4dde-b973-0fdf50a27541",
+            "radius": 55.08,
+            "effectiveRadius": 1786.48,
+            "strength": -1052.00,
+            "velocity": {
+                "x": -64.56,
+                "y": -46.35
+            }
+        },
+        {
+            "x": 15115,
+            "y": 9149,
+            "id": "bee4f92d-0b6c-492e-a16c-7b294a55779a",
+            "radius": 38.67,
+            "effectiveRadius": 1176.76,
+            "strength": -926.00,
+            "velocity": {
+                "x": -58.15,
+                "y": -46.98
+            }
+        },
+        {
+            "x": 3385,
+            "y": 919,
+            "id": "5a2dcbce-862e-4b36-863e-95fdbf564dfa",
+            "radius": 53.54,
+            "effectiveRadius": 1682.13,
+            "strength": 987.00,
+            "velocity": {
+                "x": -53.13,
+                "y": -41.04
+            }
+        },
+        {
+            "x": 550,
+            "y": 2066,
+            "id": "600cf743-fc39-401c-963a-8ddd927e0bcc",
+            "radius": 36.75,
+            "effectiveRadius": 1110.35,
+            "strength": -913.00,
+            "velocity": {
+                "x": -45.84,
+                "y": -13.16
+            }
+        },
+        {
+            "x": 8922,
+            "y": 14870,
+            "id": "5d99e398-6c4b-4d90-a79b-9494707573de",
+            "radius": 33.36,
+            "effectiveRadius": 1085.69,
+            "strength": 1059.00,
+            "velocity": {
+                "x": 66.97,
+                "y": 43.77
+            }
+        },
+        {
+            "x": 9721,
+            "y": 15414,
+            "id": "0b64c8a2-6933-461b-af2b-dbf364152065",
+            "radius": 57.28,
+            "effectiveRadius": 1876.37,
+            "strength": 1073.00,
+            "velocity": {
+                "x": 23.26,
+                "y": -66.28
+            }
+        },
+        {
+            "x": 14886,
+            "y": 7426,
+            "id": "7e363570-7752-4a32-91cb-71746aa40d5a",
+            "radius": 51.36,
+            "effectiveRadius": 1647.46,
+            "strength": 1029.00,
+            "velocity": {
+                "x": 64.35,
+                "y": 11.33
+            }
+        },
+        {
+            "x": 14041,
+            "y": 13021,
+            "id": "91aea98b-4e0a-427d-a6a4-06103ab59e1c",
+            "radius": 36.71,
+            "effectiveRadius": 1153.86,
+            "strength": -988.00,
+            "velocity": {
+                "x": 62.67,
+                "y": 16.43
+            }
+        },
+        {
+            "x": 9833,
+            "y": 5754,
+            "id": "c3c2ab23-49e0-43fc-8ef5-4863e8cccad8",
+            "radius": 39.20,
+            "effectiveRadius": 1236.42,
+            "strength": 995.00,
+            "velocity": {
+                "x": 46.64,
+                "y": 65
+            }
+        },
+        {
+            "x": 6261,
+            "y": 9314,
+            "id": "cea19b0b-2dce-4307-ad99-8ae1722a6458",
+            "radius": 92.05,
+            "effectiveRadius": 92.05,
+            "strength": 0.00,
+            "velocity": {
+                "x": -38.97,
+                "y": -69.86
+            }
+        },
+        {
+            "x": 14606,
+            "y": 6044,
+            "id": "c93ef850-e42f-495f-b8a0-d1b1bd733a8e",
+            "radius": 46.27,
+            "effectiveRadius": 1506.99,
+            "strength": 1061.00,
+            "velocity": {
+                "x": -57.93,
+                "y": -55.18
+            }
+        },
+        {
+            "x": 10494,
+            "y": 14815,
+            "id": "9baa1ea5-d7d1-46bf-8f71-38dd52b15d5f",
+            "radius": 32.39,
+            "effectiveRadius": 1047.21,
+            "strength": 1045.00,
+            "velocity": {
+                "x": 62.91,
+                "y": 49.41
+            }
+        },
+        {
+            "x": 6352,
+            "y": 3953,
+            "id": "4b2abab8-41bb-42c6-984d-06cee55ec3c9",
+            "radius": 54.43,
+            "effectiveRadius": 1658.94,
+            "strength": -929.00,
+            "velocity": {
+                "x": -71.87,
+                "y": -32.11
+            }
+        },
+        {
+            "x": 11736,
+            "y": 13671,
+            "id": "738930ed-0923-476a-8de1-e7efd1424937",
+            "radius": 54.90,
+            "effectiveRadius": 1749.84,
+            "strength": 1016.00,
+            "velocity": {
+                "x": 67.06,
+                "y": 43.62
+            }
+        },
+        {
+            "x": 11212,
+            "y": 6664,
+            "id": "886352a6-1786-4a19-918e-9f3414fd1edd",
+            "radius": 52.82,
+            "effectiveRadius": 1650.18,
+            "strength": 976.00,
+            "velocity": {
+                "x": 1.78,
+                "y": -66.35
+            }
+        },
+        {
+            "x": 3300,
+            "y": 3717,
+            "id": "09a03399-09dc-4bd1-b1a0-56a7f5267ea8",
+            "radius": 111.32,
+            "effectiveRadius": 111.32,
+            "strength": 0.00,
+            "velocity": {
+                "x": -49.92,
+                "y": -12.03
+            }
+        },
+        {
+            "x": 988,
+            "y": 7406,
+            "id": "204bb162-e3b1-4c5e-bdd5-bcbbd9283837",
+            "radius": 42.42,
+            "effectiveRadius": 1310.80,
+            "strength": 955.00,
+            "velocity": {
+                "x": 57.12,
+                "y": 56.01
+            }
+        },
+        {
+            "x": 8520,
+            "y": 2005,
+            "id": "0644c578-b262-4a00-9ec8-cddada708016",
+            "radius": 53.61,
+            "effectiveRadius": 1655.02,
+            "strength": 953.00,
+            "velocity": {
+                "x": 76.71,
+                "y": -17.53
+            }
+        },
+        {
+            "x": 8011,
+            "y": 2700,
+            "id": "ad0029fa-80d3-4403-b9a0-4c61b725703a",
+            "radius": 55.52,
+            "effectiveRadius": 1816.84,
+            "strength": 1071.00,
+            "velocity": {
+                "x": 6.66,
+                "y": -56.19
+            }
+        },
+        {
+            "x": 13887,
+            "y": 6921,
+            "id": "0e3afca9-a75c-48e4-b60f-7c9b49d6826d",
+            "radius": 47.52,
+            "effectiveRadius": 1428.85,
+            "strength": 904.00,
+            "velocity": {
+                "x": -55.36,
+                "y": 43.5
+            }
+        },
+        {
+            "x": 10901,
+            "y": 448,
+            "id": "e5ed5f90-1a36-43ca-9fff-977b0d4f81b7",
+            "radius": 48.23,
+            "effectiveRadius": 1509.95,
+            "strength": 980.00,
+            "velocity": {
+                "x": 34.89,
+                "y": 71.99
+            }
+        }
+    ],
+    "transports": [
+        {
+            "x": 5362,
+            "y": 9230,
+            "id": "689d98dbcb2abab39b3549ce4eb45d6b28541c14",
+            "velocity": {
+                "x": -17.53,
+                "y": 7.4
+            },
+            "selfAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "anomalyAcceleration": {
+                "x": 1.61,
+                "y": 1.26
+            },
+            "health": 100,
+            "status": "alive",
+            "deathCount": 18,
+            "shieldLeftMs": 0,
+            "shieldCooldownMs": 0,
+            "attackCooldownMs": 0
+        },
+        {
+            "x": 12294,
+            "y": 1426,
+            "id": "fd19c372e16762f3b8a73fce3987e5f8d386f84b",
+            "velocity": {
+                "x": -1.43,
+                "y": 11.57
+            },
+            "selfAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "anomalyAcceleration": {
+                "x": -0.36,
+                "y": 2.46
+            },
+            "health": 70,
+            "status": "alive",
+            "deathCount": 11,
+            "shieldLeftMs": 0,
+            "shieldCooldownMs": 0,
+            "attackCooldownMs": 0
+        },
+        {
+            "x": 12764,
+            "y": 9589,
+            "id": "d76085fa535d88ec612b009384d3d7fb2d677a8a",
+            "velocity": {
+                "x": -47.66,
+                "y": -14.75
+            },
+            "selfAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "anomalyAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "health": 40,
+            "status": "alive",
+            "deathCount": 13,
+            "shieldLeftMs": 0,
+            "shieldCooldownMs": 0,
+            "attackCooldownMs": 0
+        },
+        {
+            "x": 8792,
+            "y": 14134,
+            "id": "9f69d05db0362761bb5e66708da8be1160658a98",
+            "velocity": {
+                "x": -35.94,
+                "y": 44.04
+            },
+            "selfAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "anomalyAcceleration": {
+                "x": 0.35,
+                "y": 2.22
+            },
+            "health": 70,
+            "status": "alive",
+            "deathCount": 15,
+            "shieldLeftMs": 0,
+            "shieldCooldownMs": 0,
+            "attackCooldownMs": 0
+        },
+        {
+            "x": 12642,
+            "y": 5752,
+            "id": "83e73ca3f2448b3562b2d006dc6d495974cf81b8",
+            "velocity": {
+                "x": 31.38,
+                "y": -31.37
+            },
+            "selfAcceleration": {
+                "x": 0,
+                "y": 0
+            },
+            "anomalyAcceleration": {
+                "x": -0.67,
+                "y": -0.12
+            },
+            "health": 40,
+            "status": "alive",
+            "deathCount": 16,
+            "shieldLeftMs": 0,
+            "shieldCooldownMs": 0,
+            "attackCooldownMs": 0
+        }
+    ],
+    "enemies": [
+        {
+            "x": 11824,
+            "y": 1487,
+            "velocity": {
+                "x": -42.75,
+                "y": -16.45
+            },
+            "health": 80,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 9189,
+            "y": 14048,
+            "velocity": {
+                "x": -76.8,
+                "y": 14.86
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 4,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5605,
+            "y": 9193,
+            "velocity": {
+                "x": -69.75,
+                "y": 85.06
+            },
+            "health": 90,
+            "status": "alive",
+            "killBounty": 21,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5519,
+            "y": 8753,
+            "velocity": {
+                "x": -32.89,
+                "y": 25.96
+            },
+            "health": 90,
+            "status": "alive",
+            "killBounty": 161,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12611,
+            "y": 6101,
+            "velocity": {
+                "x": -77.55,
+                "y": -25.78
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 10,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12606,
+            "y": 6056,
+            "velocity": {
+                "x": -64.22,
+                "y": 21.03
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 47,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5449,
+            "y": 8790,
+            "velocity": {
+                "x": 0,
+                "y": 0
+            },
+            "health": 0,
+            "status": "dead",
+            "killBounty": 0,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12037,
+            "y": 1336,
+            "velocity": {
+                "x": 54.15,
+                "y": 23.92
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 10,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5337,
+            "y": 9110,
+            "velocity": {
+                "x": -12.24,
+                "y": 3.53
+            },
+            "health": 10,
+            "status": "alive",
+            "killBounty": 7,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12141,
+            "y": 1690,
+            "velocity": {
+                "x": -31.23,
+                "y": 32.26
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 93,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5160,
+            "y": 8871,
+            "velocity": {
+                "x": -59.99,
+                "y": -67.43
+            },
+            "health": 50,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5431,
+            "y": 8915,
+            "velocity": {
+                "x": 109.95,
+                "y": 3.2
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 77,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 13092,
+            "y": 9142,
+            "velocity": {
+                "x": -21,
+                "y": -6
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 71,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 5215,
+            "y": 8755,
+            "velocity": {
+                "x": 99.02,
+                "y": -46.51
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 32,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12775,
+            "y": 6040,
+            "velocity": {
+                "x": 2.12,
+                "y": -6.18
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 76,
+            "shieldLeftMs": 1149
+        },
+        {
+            "x": 4821,
+            "y": 9006,
+            "velocity": {
+                "x": -14.44,
+                "y": -34.87
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 21,
+            "shieldLeftMs": 0
+        }
+    ],
+    "wantedList": [
+        {
+            "x": 9242,
+            "y": 12111,
+            "velocity": {
+                "x": -39.6,
+                "y": -57.45
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 123,
+            "shieldLeftMs": 2100
+        },
+        {
+            "x": 5175,
+            "y": 13491,
+            "velocity": {
+                "x": 21.98,
+                "y": -36.61
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 123,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 4520,
+            "y": 9074,
+            "velocity": {
+                "x": 0.77,
+                "y": 0.34
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 123,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 3955,
+            "y": 11739,
+            "velocity": {
+                "x": 73.6,
+                "y": 13.46
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 123,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6107,
+            "y": 5147,
+            "velocity": {
+                "x": -6.83,
+                "y": 85.26
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 123,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6059,
+            "y": 4979,
+            "velocity": {
+                "x": -66.18,
+                "y": 87.86
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 135,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 1626,
+            "y": 8462,
+            "velocity": {
+                "x": -62.92,
+                "y": -8.77
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 135,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11588,
+            "y": 3042,
+            "velocity": {
+                "x": -53.09,
+                "y": -4.8
+            },
+            "health": 80,
+            "status": "alive",
+            "killBounty": 135,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6410,
+            "y": 5914,
+            "velocity": {
+                "x": 33.27,
+                "y": -103.95
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 135,
+            "shieldLeftMs": 4949
+        },
+        {
+            "x": 7606,
+            "y": 3516,
+            "velocity": {
+                "x": -87.12,
+                "y": 52.21
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 135,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11343,
+            "y": 13526,
+            "velocity": {
+                "x": 35.3,
+                "y": 93.75
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 1070,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 10263,
+            "y": 10197,
+            "velocity": {
+                "x": -78.13,
+                "y": 77.43
+            },
+            "health": 90,
+            "status": "alive",
+            "killBounty": 1070,
+            "shieldLeftMs": 50
+        },
+        {
+            "x": 705,
+            "y": 8442,
+            "velocity": {
+                "x": 23.91,
+                "y": 99.21
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 1070,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6244,
+            "y": 6535,
+            "velocity": {
+                "x": 4.42,
+                "y": -0.44
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 1070,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11135,
+            "y": 12442,
+            "velocity": {
+                "x": -9.1,
+                "y": -79.46
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 1070,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 10007,
+            "y": 12711,
+            "velocity": {
+                "x": 14.6,
+                "y": 3.85
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 23,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 14031,
+            "y": 8350,
+            "velocity": {
+                "x": -9.93,
+                "y": -7.24
+            },
+            "health": 80,
+            "status": "alive",
+            "killBounty": 23,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 14555,
+            "y": 3497,
+            "velocity": {
+                "x": 109.73,
+                "y": 7.65
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 23,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 3955,
+            "y": 12701,
+            "velocity": {
+                "x": -40.84,
+                "y": 70.77
+            },
+            "health": 60,
+            "status": "alive",
+            "killBounty": 23,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11737,
+            "y": 12875,
+            "velocity": {
+                "x": 41.16,
+                "y": 71.78
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 23,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 3768,
+            "y": 2654,
+            "velocity": {
+                "x": 0.62,
+                "y": -1.91
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 371,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12839,
+            "y": 1160,
+            "velocity": {
+                "x": -52.11,
+                "y": -21.55
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 371,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6637,
+            "y": 14401,
+            "velocity": {
+                "x": 37.73,
+                "y": -27.14
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 371,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 9421,
+            "y": 9538,
+            "velocity": {
+                "x": -26.31,
+                "y": -22.49
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 371,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11342,
+            "y": 8039,
+            "velocity": {
+                "x": 23.04,
+                "y": -51.56
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 371,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 4944,
+            "y": 8280,
+            "velocity": {
+                "x": 6.49,
+                "y": 9
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 818,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 2901,
+            "y": 10714,
+            "velocity": {
+                "x": -19.18,
+                "y": 11.89
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 818,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 1683,
+            "y": 13553,
+            "velocity": {
+                "x": 57.06,
+                "y": -94.04
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 818,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6292,
+            "y": 5759,
+            "velocity": {
+                "x": 32.26,
+                "y": -49.45
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 818,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 1956,
+            "y": 7223,
+            "velocity": {
+                "x": -16.1,
+                "y": -18.15
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 818,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 8171,
+            "y": 7612,
+            "velocity": {
+                "x": 43.11,
+                "y": 31.33
+            },
+            "health": 50,
+            "status": "alive",
+            "killBounty": 245,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 7427,
+            "y": 7329,
+            "velocity": {
+                "x": -83.89,
+                "y": -64.94
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 245,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6962,
+            "y": 7559,
+            "velocity": {
+                "x": -69.42,
+                "y": -27.49
+            },
+            "health": 60,
+            "status": "alive",
+            "killBounty": 245,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 9124,
+            "y": 4924,
+            "velocity": {
+                "x": -87.39,
+                "y": 48.16
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 245,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 13557,
+            "y": 12071,
+            "velocity": {
+                "x": 4.7,
+                "y": -34.53
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 245,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11583,
+            "y": 9033,
+            "velocity": {
+                "x": -70.12,
+                "y": -66.55
+            },
+            "health": 10,
+            "status": "alive",
+            "killBounty": 225,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 14166,
+            "y": 13661,
+            "velocity": {
+                "x": -2.23,
+                "y": 0.77
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 225,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12378,
+            "y": 6870,
+            "velocity": {
+                "x": 0.73,
+                "y": 49.04
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 225,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 1659,
+            "y": 13267,
+            "velocity": {
+                "x": -81.12,
+                "y": 74.3
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 225,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 878,
+            "y": 9086,
+            "velocity": {
+                "x": -89.04,
+                "y": -4.06
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 225,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6455,
+            "y": 11974,
+            "velocity": {
+                "x": -21.86,
+                "y": 29.75
+            },
+            "health": 10,
+            "status": "alive",
+            "killBounty": 3350,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 4357,
+            "y": 2466,
+            "velocity": {
+                "x": 67.91,
+                "y": 5.04
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 3350,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 6840,
+            "y": 4531,
+            "velocity": {
+                "x": 0.82,
+                "y": -60.76
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 3350,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12053,
+            "y": 10242,
+            "velocity": {
+                "x": -5.18,
+                "y": -7.83
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 3350,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 7249,
+            "y": 9068,
+            "velocity": {
+                "x": 53.47,
+                "y": -9.19
+            },
+            "health": 90,
+            "status": "alive",
+            "killBounty": 3350,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 701,
+            "y": 5299,
+            "velocity": {
+                "x": 71,
+                "y": 71
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 2149
+        },
+        {
+            "x": 7177,
+            "y": 8245,
+            "velocity": {
+                "x": 77.78,
+                "y": 77.78
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 2833,
+            "y": 6626,
+            "velocity": {
+                "x": 75.56,
+                "y": 79.95
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 12870,
+            "y": 14276,
+            "velocity": {
+                "x": 79.97,
+                "y": 75.53
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 14314,
+            "y": 5729,
+            "velocity": {
+                "x": 82.24,
+                "y": 73.06
+            },
+            "health": 70,
+            "status": "alive",
+            "killBounty": 51,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 4691,
+            "y": 7576,
+            "velocity": {
+                "x": 89.95,
+                "y": 59.39
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 101,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 3372,
+            "y": 434,
+            "velocity": {
+                "x": -11.54,
+                "y": -20.49
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 101,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 8079,
+            "y": 6217,
+            "velocity": {
+                "x": -56.71,
+                "y": 63.78
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 101,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 11017,
+            "y": 9053,
+            "velocity": {
+                "x": -107.73,
+                "y": -22.23
+            },
+            "health": 40,
+            "status": "alive",
+            "killBounty": 101,
+            "shieldLeftMs": 0
+        },
+        {
+            "x": 3103,
+            "y": 9265,
+            "velocity": {
+                "x": 92.82,
+                "y": -59.03
+            },
+            "health": 100,
+            "status": "alive",
+            "killBounty": 101,
+            "shieldLeftMs": 0
+        }
+    ],
+    "bounties": [
+        {
+            "x": 9005,
+            "y": 13852,
+            "points": 24,
+            "radius": 5
+        },
+        {
+            "x": 8687,
+            "y": 14651,
+            "points": 15,
+            "radius": 5
+        },
+        {
+            "x": 13018,
+            "y": 9457,
+            "points": 37,
+            "radius": 5
+        },
+        {
+            "x": 12465,
+            "y": 9876,
+            "points": 40,
+            "radius": 5
+        },
+        {
+            "x": 12521,
+            "y": 6269,
+            "points": 47,
+            "radius": 5
+        },
+        {
+            "x": 8559,
+            "y": 14499,
+            "points": 22,
+            "radius": 5
+        },
+        {
+            "x": 9037,
+            "y": 14441,
+            "points": 21,
+            "radius": 5
+        },
+        {
+            "x": 9287,
+            "y": 14524,
+            "points": 21,
+            "radius": 5
+        },
+        {
+            "x": 8548,
+            "y": 13840,
+            "points": 20,
+            "radius": 5
+        },
+        {
+            "x": 12497,
+            "y": 9674,
+            "points": 44,
+            "radius": 5
+        },
+        {
+            "x": 12451,
+            "y": 6012,
+            "points": 43,
+            "radius": 5
+        },
+        {
+            "x": 9265,
+            "y": 14339,
+            "points": 22,
+            "radius": 5
+        },
+        {
+            "x": 9074,
+            "y": 14435,
+            "points": 21,
+            "radius": 5
+        },
+        {
+            "x": 12755,
+            "y": 6161,
+            "points": 43,
+            "radius": 5
+        },
+        {
+            "x": 12605,
+            "y": 6244,
+            "points": 48,
+            "radius": 5
+        },
+        {
+            "x": 9156,
+            "y": 14379,
+            "points": 24,
+            "radius": 5
+        },
+        {
+            "x": 8938,
+            "y": 14271,
+            "points": 19,
+            "radius": 5
+        },
+        {
+            "x": 8791,
+            "y": 13918,
+            "points": 28,
+            "radius": 5
+        },
+        {
+            "x": 12303,
+            "y": 6089,
+            "points": 52,
+            "radius": 5
+        },
+        {
+            "x": 12473,
+            "y": 5878,
+            "points": 45,
+            "radius": 5
+        },
+        {
+            "x": 12714,
+            "y": 6053,
+            "points": 43,
+            "radius": 5
+        },
+        {
+            "x": 8767,
+            "y": 14190,
+            "points": 12,
+            "radius": 5
+        },
+        {
+            "x": 8480,
+            "y": 14562,
+            "points": 23,
+            "radius": 5
+        },
+        {
+            "x": 8664,
+            "y": 14643,
+            "points": 23,
+            "radius": 5
+        },
+        {
+            "x": 5198,
+            "y": 9194,
+            "points": 91,
+            "radius": 5
+        },
+        {
+            "x": 8763,
+            "y": 14163,
+            "points": 25,
+            "radius": 5
+        },
+        {
+            "x": 9051,
+            "y": 14632,
+            "points": 16,
+            "radius": 5
+        },
+        {
+            "x": 9254,
+            "y": 14550,
+            "points": 16,
+            "radius": 5
+        },
+        {
+            "x": 9111,
+            "y": 13832,
+            "points": 28,
+            "radius": 5
+        },
+        {
+            "x": 9177,
+            "y": 13808,
+            "points": 28,
+            "radius": 5
+        },
+        {
+            "x": 8853,
+            "y": 14241,
+            "points": 22,
+            "radius": 5
+        },
+        {
+            "x": 8850,
+            "y": 14626,
+            "points": 13,
+            "radius": 5
+        },
+        {
+            "x": 8650,
+            "y": 14100,
+            "points": 18,
+            "radius": 5
+        },
+        {
+            "x": 8875,
+            "y": 14410,
+            "points": 16,
+            "radius": 5
+        },
+        {
+            "x": 8851,
+            "y": 14421,
+            "points": 21,
+            "radius": 5
+        },
+        {
+            "x": 9247,
+            "y": 13875,
+            "points": 27,
+            "radius": 5
+        },
+        {
+            "x": 13118,
+            "y": 5532,
+            "points": 38,
+            "radius": 5
+        },
+        {
+            "x": 8780,
+            "y": 14408,
+            "points": 17,
+            "radius": 5
+        },
+        {
+            "x": 9043,
+            "y": 14341,
+            "points": 21,
+            "radius": 5
+        },
+        {
+            "x": 13117,
+            "y": 5887,
+            "points": 38,
+            "radius": 5
+        },
+        {
+            "x": 9282,
+            "y": 14478,
+            "points": 23,
+            "radius": 5
+        },
+        {
+            "x": 12485,
+            "y": 5750,
+            "points": 48,
+            "radius": 5
+        },
+        {
+            "x": 9071,
+            "y": 14116,
+            "points": 25,
+            "radius": 5
+        },
+        {
+            "x": 13042,
+            "y": 5874,
+            "points": 39,
+            "radius": 5
+        },
+        {
+            "x": 8870,
+            "y": 14113,
+            "points": 20,
+            "radius": 5
+        },
+        {
+            "x": 12460,
+            "y": 6179,
+            "points": 44,
+            "radius": 5
+        },
+        {
+            "x": 13176,
+            "y": 5702,
+            "points": 38,
+            "radius": 5
+        },
+        {
+            "x": 8759,
+            "y": 14587,
+            "points": 19,
+            "radius": 5
+        },
+        {
+            "x": 13093,
+            "y": 5849,
+            "points": 40,
+            "radius": 5
+        },
+        {
+            "x": 13198,
+            "y": 6099,
+            "points": 38,
+            "radius": 5
+        },
+        {
+            "x": 13142,
+            "y": 6283,
+            "points": 40,
+            "radius": 5
+        },
+        {
+            "x": 9194,
+            "y": 13953,
+            "points": 29,
+            "radius": 5
+        },
+        {
+            "x": 8763,
+            "y": 13811,
+            "points": 20,
+            "radius": 5
+        },
+        {
+            "x": 12813,
+            "y": 9234,
+            "points": 42,
+            "radius": 5
+        },
+        {
+            "x": 13076,
+            "y": 9363,
+            "points": 38,
+            "radius": 5
+        },
+        {
+            "x": 8682,
+            "y": 14262,
+            "points": 19,
+            "radius": 5
+        },
+        {
+            "x": 8725,
+            "y": 14180,
+            "points": 25,
+            "radius": 5
+        },
+        {
+            "x": 8558,
+            "y": 14281,
+            "points": 24,
+            "radius": 5
+        }
+    ],
+    "maxSpeed": 110.00,
+    "maxAccel": 10.00,
+    "attackRange": 200.00,
+    "attackCooldownMs": 10000,
+    "attackDamage": 30,
+    "attackExplosionRadius": 30.00,
+    "reviveTimeoutSec": 2,
+    "shieldTimeMs": 5000,
+    "shieldCooldownMs": 40000,
+    "transportRadius": 5,
+    "errors": []
+}

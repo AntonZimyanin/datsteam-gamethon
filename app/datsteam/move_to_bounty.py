@@ -1,4 +1,4 @@
-from math_func import *
+from app.datsteam.math.math_func import *
 from http_client import HttpClient
 
 client = HttpClient()

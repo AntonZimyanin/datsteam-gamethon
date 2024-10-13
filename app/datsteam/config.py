@@ -1,6 +1,12 @@
-auth_token = '670516cb9d5a9670516cb9d5ae'
-url = 'https://games.datsteam.dev/play/magcarp/player/move'
+_auth_token = '670516cb9d5a9670516cb9d5ae'
+_url = 'https://games.datsteam.dev/play/magcarp/player/move'
 
-headers = {
-    'X-Auth-Token': auth_token
+_headers = {
+    'X-Auth-Token': _auth_token
+}
+
+config = {
+    'auth_token': _auth_token,
+    'url': _url,
+    'headers': _headers
 }
